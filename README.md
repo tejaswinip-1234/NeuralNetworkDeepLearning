@@ -10,3 +10,5 @@
 #### ICP4 video link- https://drive.google.com/file/d/1CDM0OVmiIkD0oo8oP1pmmH6xhh9f-CB7/view?usp=drive_link
 #### ICP5.pynb contains ICP5 code solutions
 #### ICP5 video link- https://drive.google.com/file/d/17T3wj4fyPtcxt0JxiCl05Xr1iCtt-IBJ/view?usp=drive_link
+#### ICP6.pynb contains ICP6 code solutions
+#### ICP6 video link- https://drive.google.com/file/d/1yCqfH7X06WeS1ZUlfZc-iFI5SLQdrQhz/view?usp=drive_link
